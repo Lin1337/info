@@ -6,7 +6,8 @@ Pt/br:
 Sou uma estudante de segurança da informação de Natal - RN (Brazil)  
 voce pode entrar em contato via email ou xmpp  
 #### contato@pepino.live
-#### XMPP/Jabber: cumbrehab@trashserver.net
+#### XMPP/Jabber:   
+#### cumbrehab@trashserver.net
 ### Redes socias:  
 [Github](https://github.com/Lin1337) 
 [twitter](https://twitter.com/Pepinoselvagem)  
