@@ -8,7 +8,7 @@ voce pode entrar em contato via email ou xmpp
 # contato@pepino.live
 # XMPP/Jabber: cumbrehab@trashserver.net
 ### Redes socias:
-[Image](https://raw.githubusercontent.com/Lin1337/info/gh-pages/icons/github.png) [Link](https://github.com/Lin1337) 
+![github](https://raw.githubusercontent.com/Lin1337/info/gh-pages/icons/github.png) [Link](https://github.com/Lin1337) 
 
 ### Jekyll Themes
 
