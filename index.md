@@ -1,32 +1,14 @@
-## Welcome to GitHub Pages
+## Olá me chamo lin!
+English:
+I`m a computer securety student from Natal - RN (Brazil)
+You can contact me via email or xmpp
 
-You can use the [editor on GitHub](https://github.com/Lin1337/info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Sou uma estudante de segurança da informação de Natal - RN (Brazil)
+voce pode entrar em contato via email ou xmpp
+contato@pepino.live
+XMPP/Jabber: cumbrehab@trashserver.net
+### Redes socias:
+[Image](src)[Link](https://github.com/Lin1337) 
 
 ### Jekyll Themes
 
@@ -35,3 +17,39 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Public GPG key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBF6phvoBCADAL7CLXhIvxFq84ua3KnVxZ04Snribun97tDsERmM8CrLfWvqN
+7adP86cUz/GVlu5f9C0GMLr6u10eUJ9V2c/upZuZrPpX43WzzB3TqsV+W3y+kovX
+op8WTYB/Z5xfd5egFqXal8JIuMzAigrwldYronkDcgzTY9R/amB+32o1h0AnWQXx
+7JTbVi9Q5iS8mCWmyDPH25bwTUMeeK5XBwZ/j9Gx5PSZEr/2prqFg6PbloCNwh2K
+PORajTXdzVJ3AHvXsAT3IHfh4W+LigTovVdc5eR84vL1qk+ifQjA4C3pStkb4nBH
+tLU4SpM2kme2L4OKhY00upQyqnXIDNSlNef1ABEBAAG0IUxpbjEzMzcgPGdhYnJp
+ZWx2ZGluaXpAZ21haWwuY29tPokBTgQTAQgAOAIbAwULCQgHAgYVCgkICwIEFgID
+AQIeAQIXgBYhBFomZ4lGIZsUmykO0KafLPynZkXEBQJeqYcZAAoJEKafLPynZkXE
+i5wH/2dMv79GAT1m4sP6epJP/BXcX9AUpei1p5Mz6X/kGru5j9bLZl47Ta0FJDPe
+H9naehlm01wQ68jl+lX8ZIxPy/0m7OILwH5b3WhQnEOz56j8LY/EAbgw6IBzzpPT
+Hadg2KX/wCuaZi+jiWkJVLySyRjS5NxW9muIM+OeB3QlU7XyLSnEoDcMAmIChqYR
+j7IvbvQED+x1bcgntWtRITiDkxyy8+dRGw8q+mOnd3Byd8n4PlqJpzZoyt49IQ+j
+TRtrO1AvPw1g8MqmxYNYeXh1+ZuQfisX7cEA/pGq+oMMbWJPYoZU6XsrcFBABmLV
+oUMAGir5pbIIz+0nsEQ5+vJHphW5AQ0EXqmG+gEIAOk2mLbW1GRZwrj0kBJllkV6
+mnrbJ3vAk/504VHyFIzSOIy9SdjC2QC+pDERx6zRPpZzpM2Ax1H6Z+eUjkMP9wZP
+vVup5OBPXDI2MnIKXzhBpEoO/zNvr7TN5zT1P6aqnbb6ZCVR38AxQiOaqUgKNWj2
+1mQZU3dFPElH3a7eIFGkv7Ca3XpaK7/fx4Xqxwx9sTTyCXtBALpJ3kej/YMHWPAH
+lB9qQjQjLzQXdzFk/viPRhQMIvsAfvub9emjhXrNLHDB+rznAmE/d1RV/7jkbPkA
+5ImvRWDcF+ESaG1AwNhqUvKIuZqwlLr7BlVbLC4Hse41VjrKx2RZN/uNChWxv2EA
+EQEAAYkBPAQYAQgAJhYhBFomZ4lGIZsUmykO0KafLPynZkXEBQJeqYb6AhsMBQkD
+wnZ2AAoJEKafLPynZkXE7VUIAINu9uiSwiLpLeRBpmwCdYSUKXie7KnpFe5Hc9iQ
+InMbrJwtM2DL66hqfdOt96tdmyaXnPgRe9IcZp58fdgSg+yRurpoi3JgwoO0Qdke
+HYTPzbzgs72k4jMi5NxNx9R5eDcdj5ZaIREvhj9WGOrANp3e6zogJCe9nfRH8Dxf
+WDUQfALN8TFYE1Dx7gCAYwnOxwFPdG75wlvJPxmOA9H3CVKtKueb1OJWGgECk46f
+7NJD8WcxjYVkLmlhS4n7VnuoxEEvoWKyn31XC68odgkdH4rEpZMHvoIlFr3uK/yH
+GGfRlGdN0n8fiHKe6W5vzy86Sz9mK82kUqNbTKIO+ZPntJE=
+=qxlt
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
