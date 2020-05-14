@@ -1,14 +1,14 @@
 ## Olá me chamo lin!
 English:
-I`m a computer securety student from Natal - RN (Brazil)
-You can contact me via email or xmpp
-
-Sou uma estudante de segurança da informação de Natal - RN (Brazil)
-voce pode entrar em contato via email ou xmpp
-contato@pepino.live
-XMPP/Jabber: cumbrehab@trashserver.net
+I`m a computer securety student from Natal - RN (Brazil)  
+You can contact me via email or xmpp  
+Pt/br:  
+Sou uma estudante de segurança da informação de Natal - RN (Brazil)  
+voce pode entrar em contato via email ou xmpp  
+# contato@pepino.live
+# XMPP/Jabber: cumbrehab@trashserver.net
 ### Redes socias:
-[Image](src)[Link](https://github.com/Lin1337) 
+[Image](https://raw.githubusercontent.com/Lin1337/info/gh-pages/icons/github.png) [Link](https://github.com/Lin1337) 
 
 ### Jekyll Themes
 
