@@ -12,6 +12,20 @@ voce pode entrar em contato via email ou xmpp
 [twitter](https://twitter.com/Pepinoselvagem)  
 ![fsociety](https://raw.githubusercontent.com/Lin1337/info/gh-pages/fsociety.gif)  
 
+
+## Donate
+
+I accept crypto donations :)
+
+```
+## BTC
+bc1q5562j4t52e0frs3yrg4p4qfhkx0h8ynuy86av8
+## ETH
+0x6d0A642F2697e8Eb72E3E9195637913517d2e9B7
+```
+
+
+
 ### Public GPG key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
