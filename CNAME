@@ -1,2 +1,1 @@
-;pepino.live.                   IN      A
-pepino.live.            3600    IN      SOA     jihoon.ns.cloudflare.com. dns.cloudflare.com. 2034114788 10000 2400 604800 3600
+info.pepino.live
