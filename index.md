@@ -7,10 +7,10 @@ Sou uma estudante de segurança da informação de Natal - RN (Brazil)
 voce pode entrar em contato via email ou xmpp  
 #### contato@pepino.live
 #### XMPP/Jabber: cumbrehab@trashserver.net
-### Redes socias:
+### Redes socias:  
 [Github](https://github.com/Lin1337) 
-[twitter](https://twitter.com/Pepinoselvagem)
-![fsociety](https://raw.githubusercontent.com/Lin1337/info/gh-pages/fsociety.gif)
+[twitter](https://twitter.com/Pepinoselvagem)  
+![fsociety](https://raw.githubusercontent.com/Lin1337/info/gh-pages/fsociety.gif)  
 
 ### Public GPG key
 ```
