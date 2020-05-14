@@ -5,19 +5,13 @@ You can contact me via email or xmpp
 Pt/br:  
 Sou uma estudante de segurança da informação de Natal - RN (Brazil)  
 voce pode entrar em contato via email ou xmpp  
-# contato@pepino.live
-# XMPP/Jabber: cumbrehab@trashserver.net
+#### contato@pepino.live
+#### XMPP/Jabber: cumbrehab@trashserver.net
 ### Redes socias:
-![github](https://raw.githubusercontent.com/Lin1337/info/gh-pages/icons/github.png) [Link](https://github.com/Lin1337) 
+[Github](https://github.com/Lin1337) 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lin1337/info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+## Fsociety
 
 ### Public GPG key
 ```
