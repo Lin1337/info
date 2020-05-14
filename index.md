@@ -9,8 +9,7 @@ voce pode entrar em contato via email ou xmpp
 #### XMPP/Jabber: cumbrehab@trashserver.net
 ### Redes socias:
 [Github](https://github.com/Lin1337) 
-
-
+[twitter](https://twitter.com/Pepinoselvagem)  
 ![fsociety](https://raw.githubusercontent.com/Lin1337/info/gh-pages/fsociety.gif)
 
 ### Public GPG key
