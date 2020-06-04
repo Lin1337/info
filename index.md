@@ -6,24 +6,24 @@ Pt/br:
 Sou uma estudante de segurança da informação de Natal - RN (Brazil)  
 voce pode entrar em contato via email ou xmpp  
 #### contato@pepino.live
-#### XMPP/Jabber:   
-#### cumbrehab@trashserver.net
 ### Redes socias:  
-[Github](https://github.com/Lin1337) 
-[twitter](https://twitter.com/Pepinoselvagem)  
-![fsociety](https://raw.githubusercontent.com/Lin1337/info/gh-pages/fsociety.gif)  
+*[Github](https://github.com/Lin1337) 
+*[twitter](https://twitter.com/Pepinoselvagem)
 
+### Email:
+*[contato@pepino.live](mailto:contato@pepino.live)
 
 ## Donate
 
 I accept crypto donations :)
 
-```
+
 ## BTC
-bc1q5562j4t52e0frs3yrg4p4qfhkx0h8ynuy86av8
+[bc1q5562j4t52e0frs3yrg4p4qfhkx0h8ynuy86av8](bitcoin:bc1q5562j4t52e0frs3yrg4p4qfhkx0h8ynuy86av8)
+
 ## ETH
-0x6d0A642F2697e8Eb72E3E9195637913517d2e9B7
-```
+[0x6d0A642F2697e8Eb72E3E9195637913517d2e9B7](etherium:0x6d0A642F2697e8Eb72E3E9195637913517d2e9B7)
+
 
 
 
