@@ -7,7 +7,6 @@ I`m a computer securety student from Natal - RN (Brazil)
 ```
 Sou uma estudante de segurança da informação de Natal - RN (Brazil) 
 ```
-#### contato@pepino.live
 ### Redes socias:  
 [Github](https://github.com/Lin1337) 
 [twitter](https://twitter.com/Pepinoselvagem)
