@@ -1,7 +1,9 @@
 ## Olá me chamo lin!
+## [Acesse minhas lives!](stream.pepino.live)
+
 ## English:
 ```
-I`m a computer securety student from Natal - RN (Brazil) 
+I'm a computer security student from Natal - RN (Brazil) 
 ```
 ## Pt/br:  
 ```
