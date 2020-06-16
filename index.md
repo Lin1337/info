@@ -1,5 +1,3 @@
-## Olá me chamo lin!
-## [Acesse minhas lives!](stream.pepino.live)
 ```
   ___ ___   __  __ _____    ____ _   _    _    __  __  ___    _     ___ _   _
  / _ \_ _| |  \/  | ____|  / ___| | | |  / \  |  \/  |/ _ \  | |   |_ _| \ | |
@@ -7,6 +5,7 @@
 | |_| | |  | |  | | |___  | |___|  _  |/ ___ \| |  | | |_| | | |___ | || |\  |
  \___/___| |_|  |_|_____|  \____|_| |_/_/   \_\_|  |_|\___/  |_____|___|_| \_|
 ```
+## [Acesse minhas lives!](stream.pepino.live)
 ## English:
 ```
 I'm a computer security student from Natal - RN (Brazil)
