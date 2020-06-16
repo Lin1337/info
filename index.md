@@ -22,7 +22,7 @@ Sou uma estudante de segurança da informação de Natal - RN (Brazil)
 [contato@pepino.live](mailto:contato@pepino.live)
 
 ## Crypto
-
+send me if u want :)
 ## BTC
 ![Bitcoin](https://raw.githubusercontent.com/Lin1337/info/gh-pages/bitcoin.svg)
 
