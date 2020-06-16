@@ -1,16 +1,24 @@
 ## Olá me chamo lin!
 ## [Acesse minhas lives!](stream.pepino.live)
+```
+ _ _       _ _______________
+| (_)_ __ / |___ /___ /___  |
+| | | '_ \| | |_ \ |_ \  / /
+| | | | | | |___) |__) |/ /
+|_|_|_| |_|_|____/____//_/
 
+
+```
 ## English:
 ```
-I'm a computer security student from Natal - RN (Brazil) 
+I'm a computer security student from Natal - RN (Brazil)
 ```
-## Pt/br:  
+## Pt/br:
 ```
-Sou uma estudante de segurança da informação de Natal - RN (Brazil) 
+Sou uma estudante de segurança da informação de Natal - RN (Brazil)
 ```
-### Redes socias:  
-[Github](https://github.com/Lin1337) 
+### Redes socias:
+[Github](https://github.com/Lin1337)
 [twitter](https://twitter.com/Pepinoselvagem)
 
 ### Email:
