@@ -2,7 +2,7 @@
 title: Info
 owner: "Lin"
 url: "https://info.pepino.live"
-baseurl: "/"
+baseurl: "/info"
 permalink: /:title/
 description: ""
 markdown: kramdown
