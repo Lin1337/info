@@ -12,20 +12,16 @@ permalink: /
 ---
 
 
-## Olá me chamo lin!
-## [Acesse minhas lives!](stream.pepino.live)
+# Lin, Get out of them matrix
 
-## English:
+I'm a computer security student from Natal (Brazil) 
 ```
-I'm a computer security student from Natal - RN (Brazil) 
-```
-## Pt/br:  
-```
-Sou uma estudante de segurança da informação de Natal - RN (Brazil) 
-```
+## Pt/br:
+
+Sou uma estudante de segurança da informação de Natal - RN (Brazil)
+
 ### Redes socias:  
 [Github](https://github.com/Lin1337) 
-[twitter](https://twitter.com/Pepinoselvagem)
 
 ### Email:
 [contato@pepino.live](mailto:contato@pepino.live)
