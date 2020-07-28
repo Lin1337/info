@@ -11,8 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
-testando
+# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE not for dummies
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
 * Eyesight-protection layout
