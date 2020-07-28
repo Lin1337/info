@@ -3,6 +3,7 @@ title: Info
 owner: "Lin"
 url: "https://info.pepino.live"
 permalink: /:title/
+baseurl: "/pRoJEct-NeGYa"
 description: ""
 markdown: kramdown
 webrick:
