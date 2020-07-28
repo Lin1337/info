@@ -1,4 +1,16 @@
-```
+---
+layout: default
+post_list: "date"
+toc: false
+home_btn: true
+btn_text: true
+footer: true
+title: ""
+author: ""
+encrypted_text: true
+permalink: /
+-- 
+````
   ___ ___   __  __ _____    ____ _   _    _    __  __  ___    _     ___ _   _
  / _ \_ _| |  \/  | ____|  / ___| | | |  / \  |  \/  |/ _ \  | |   |_ _| \ | |
 | | | | |  | |\/| |  _|   | |   | |_| | / _ \ | |\/| | | | | | |    | ||  \| |
