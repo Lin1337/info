@@ -1,9 +1,9 @@
 ## Settings
 title: Info
 owner: "Lin"
-url: "https://info.pepino.live"
+url: "https://lin1337.github.io"
 permalink: /:title/
-baseurl: "/"
+baseurl: "/info"
 description: ""
 markdown: kramdown
 webrick:
