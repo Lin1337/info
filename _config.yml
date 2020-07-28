@@ -1,9 +1,9 @@
 ## Settings
 title: Info
 owner: "Lin"
-url: "https://lin1337.github.io"
+url: "https://akiritsu.github.io"
 permalink: /:title/
-baseurl: "/"
+baseurl: "/pRoJEct-NeGYa"
 description: ""
 markdown: kramdown
 webrick:
