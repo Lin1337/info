@@ -3,7 +3,7 @@ title: Info
 owner: "Lin"
 url: "https://lin1337.github.io"
 permalink: /:title/
-baseurl: "/info"
+baseurl: "/"
 description: ""
 markdown: kramdown
 webrick:
