@@ -16,7 +16,7 @@ permalink: /
 
 I'm a computer security student AKA hacker
 
-only contact via email WITHgpg signing
+only contact via email WITH gpg signing
 
 ### Email:
 [contato@pepino.live](mailto:contato@pepino.live)
