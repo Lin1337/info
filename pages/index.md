@@ -35,5 +35,5 @@ gpg signing
 
 
 ### Public GPG key
-[Tor](http://gnjtzu5c2lv4zasv.onion/0xA69F2CFCA76645C4)
-[Clearnet](https://pgp.key-server.io/0xA69F2CFCA76645C4)
+[Tor](http://gnjtzu5c2lv4zasv.onion/0x20769C088F0DCA4E)
+[Clearnet](https://pgp.key-server.io/0x20769C088F0DCA4E)
